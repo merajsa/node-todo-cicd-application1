@@ -1,0 +1,3 @@
+[submodule "django-todo-cicd-app1"]
+	path = django-todo-cicd-app1
+	url = https://github.com/merajsa/django-todo-cicd-app.git
